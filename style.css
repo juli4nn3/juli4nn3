@@ -1,0 +1,12 @@
+/* Created by: Julianne Leblanc-Peltier
+* Created on: May 2026
+* This file contains the CSS for README.md
+*/
+
+table {
+    border-collapse: collapse;
+}
+
+td {
+ border-style : hidden!important;
+}
