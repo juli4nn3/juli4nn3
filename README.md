@@ -1,6 +1,6 @@
-<h1 align=center> Julianne Leblanc-Peltier 🎧💻 </h1>
-
-<img src="./images/strawberry.gif" alt="strawberry banner gif" width="300" length="300"></td>
+<h1 align=center> Julianne Leblanc-Peltier 🎧💻
+    <img src="./images/strawberry.gif" alt="strawberry banner gif" width="300" length="300">
+</h1>
 
 <hr>
 

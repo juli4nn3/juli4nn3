@@ -8,5 +8,10 @@ table {
 }
 
 td {
- border-style : hidden!important;
+    border-style: hidden!important;
+}
+
+img {
+    width: fit-content;
+    height: auto;
 }
