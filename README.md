@@ -1,20 +1,6 @@
 <h1 align=center> Julianne Leblanc-Peltier 🎧💻 </h1>
 
-<table border="0" align=center>
-    <tr>
-        <td><img src="./images/laptop_smiski.gif" alt="smiski laptop gif" width="300" length="300"></td>
-        <td>
-            <p align=center>Two roads diverged in a wood, and I— <br>
-            I took the one less traveled by, <br>
-            And that has made all the difference. <br>
-            - Robert Frost, The Road Not Taken <br>
-            ⠀
-            :¨ ·.· ¨: <br>
-            &nbsp; &nbsp; `· . 𐙚
-            </p>
-        </td>
-    </tr>
-</table>
+<img src="./images/strawberry.gif" alt="strawberry banner gif" width="300" length="300"></td>
 
 <hr>
 
