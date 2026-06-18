@@ -17,6 +17,5 @@ img {
 }
 
 hr {
-    width: fit-content;
-    height: auto;
+    text-align: center;
 }
